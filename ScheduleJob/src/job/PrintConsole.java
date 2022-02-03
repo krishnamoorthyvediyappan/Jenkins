@@ -1,5 +1,6 @@
 package job;
 
+
 public class PrintConsole {
 
 	public static void main(String[] args) {
