@@ -21,6 +21,7 @@ pipeline {
       }
     }
 
+    
     stage('Integration Test') {
       parallel {
         stage('Integration Test (UI)') {
